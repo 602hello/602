@@ -4,7 +4,7 @@ function checkpwd()
 	if (pwd_value == "123456") 
 	{
 	alert("password is correct !!!");
-	location.href = "../main/html";
+	location.href = "../main/index.html";
 	
 	} else {
 	alert("pwd = " + pwd_value);
